@@ -61,5 +61,7 @@ range of cyberattack types, rather than facing a single dominant threat.
 This suggests that organizations across all sectors should maintain 
 broad, well-rounded security defenses rather than focusing resources 
 on countering just one type of attack.
-  - 
-- Conclusion: The dataset is clean and ready for analysis without major preprocessing
+
+## 10. Visualization
+
+![Attack Type by Industry](chart.png)
