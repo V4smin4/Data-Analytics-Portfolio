@@ -1,4 +1,3 @@
-# Data-Analytics-Portfolio
 # 👋 Data Analytics Portfolio
 
 Hi, I'm Yasmin Ahmed Abdel Mohsen. This repository documents my journey learning data analytics — from asking the right questions to cleaning, analyzing, and visualizing data.
@@ -18,9 +17,10 @@ Hi, I'm Yasmin Ahmed Abdel Mohsen. This repository documents my journey learning
 - Data Visualization
 
 ## 📂 Projects
+
 | Project | Description | Tools |
 |---------|-------------|-------|
-| Asking the Right Questions | Cisco Data Analytics Lab | Excel |
+| [Cybersecurity Attacks Analysis](cybersecurity-attacks-analysis/README.md) | Explored the relationship between attack type and target industry using a dataset of over 3,000 records. | Excel, Pivot Tables |
 
 ## 📫 Contact
 - LinkedIn: [https://www.linkedin.com/in/yasmina-mohsen-3644553b4 ]
