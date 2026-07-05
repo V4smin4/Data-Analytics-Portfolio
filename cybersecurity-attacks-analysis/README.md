@@ -24,3 +24,12 @@ I expect that different industries are targeted by different types of cyberattac
 - Analyze patterns using Excel/SQL
 - Visualize findings and present conclusions
 - Draw conclusions and summarize insights
+
+## 6. Data Investigation Results
+
+- Total records: 3001
+- Duplicate rows: 0
+- Missing values: 0
+- Conclusion: The dataset is clean and ready for analysis without major preprocessing.
+  - 
+- Conclusion: The dataset is clean and ready for analysis without major preprocessing
