@@ -7,7 +7,7 @@ Is there a relationship between Attack Type and Target Industry?
 I expect that different industries are targeted by different types of cyberattacks. For example, phishing attacks may be more common in the banking sector, while DDoS attacks may be more common in IT and telecommunications
 
 ## 3. Data Needed
--Country
+- Country
 - Year
 - Attack type
 - Target industry
