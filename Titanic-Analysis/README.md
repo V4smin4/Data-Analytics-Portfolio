@@ -18,7 +18,6 @@ This project analyzes the Titanic dataset using Microsoft Excel to explore the f
 - Data Analysis
 - Data Cleaning & Preparation
 - Statistical Analysis
-- SQL (Database Querying)
 - Data Visualization
 - Data Storytelling
 - Excel (Pivot Tables, Formulas, Charts)
