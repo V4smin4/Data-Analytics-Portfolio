@@ -21,6 +21,7 @@ Hi, I'm Yasmina Ahmed Mohsen. This repository documents my journey learning data
 |---------|-------------|-------|
 | [Cybersecurity Attacks Analysis](cybersecurity-attacks-analysis/README.md) | Explored the relationship between attack type and target industry using a dataset of over 3,000 records. | Excel, Pivot Tables |
 | [Titanic Data Analysis](Titanic-Analysis/README.md) | Cleaned and analyzed the Titanic dataset to identify factors affecting passenger survival, including an interactive Excel dashboard. | Excel, Pivot Tables, Descriptive Statistics |
+| [Titanic SQL Analysis](Titanic-SQL-Analysis/README.md) | Analyzed Titanic survival patterns using SQL aggregation, filtering, and grouping in MySQL Workbench. | MySQL Workbench, SQL |
 
 ## 📫 Contact
 - LinkedIn: [https://www.linkedin.com/in/yasmina-mohsen-3644553b4]
