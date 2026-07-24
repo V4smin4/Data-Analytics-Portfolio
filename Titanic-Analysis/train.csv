@@ -1,0 +1,44 @@
+Titanic Data Analysis Dashboard,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Overall Survival
+
+38.4%",,,"Female Survival
+
+74.2%",,,"Male Survival
+
+18.9%",,,"1st Class Survival
+
+63%",,,"2nd Class Survival
+
+47.3%",,,,"3rd Class Survival
+
+24.2%",
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Key Insights,,,,,,,,,,,,,,,,,
+Dataset: Titanic (Kaggle) — 891 Passengers,,,,,,,,,,,,,,,,,
+Overall survival rate was 38.4%.,,,,,,,,,,,,,,,,,
+Female passengers had the highest survival rate.,,,,,,,,,,,,,,,,,
+First-class passengers were more likely to survive.,,,,,,,,,,,,,,,,,
+Passenger class and gender strongly influenced survival.,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Tools Used:,,,,,,,,,,,,,,,,,
+Microsoft Excel | Pivot Tables | Charts | Descriptive Statistics,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Created by :Yasmina Mohsen,,,,,,,,,,,,,,,,,
