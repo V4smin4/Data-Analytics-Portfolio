@@ -15,7 +15,7 @@ I expect that different industries are targeted by different types of cyberattac
 - Number of Affected Users
 
 ## 4. Data Source
-[Global Cybersecurity Threats (2015-2024) - Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024 
+[Global Cybersecurity Threats (2015-2024) - Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
 
 ## 5. Next Steps
 - Collect the dataset
@@ -31,12 +31,6 @@ I expect that different industries are targeted by different types of cyberattac
 - Duplicate rows: 0
 - Missing values: 0
 - Conclusion: The dataset is clean and ready for analysis without major preprocessing.
-
-## 6. Data Investigation Results
-- Total records: 3001
-- Duplicate rows: 0
-- Missing values: 0
-- Conclusion: The dataset was clean and required no preprocessing.
 
 ## 7. Analysis
 Using a Pivot Table in Excel, attack type counts were compared across 
