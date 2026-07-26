@@ -26,7 +26,6 @@ Hi, I'm Yasmina Ahmed Mohsen. This repository documents my journey learning data
 | [Titanic Power BI Dashboard](PowerBI-Dashboard/README.md) | Built an interactive dashboard to visualize Titanic survival patterns using Power BI. | Power BI, Data Visualization, DAX |
 
 ## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/yasmina-mohsen-3644553b4]
-
+LinkedIn: https://www.linkedin.com/in/yasmina-mohsen-3644553b4
 ---
 Created by **Yasmina Mohsen**
