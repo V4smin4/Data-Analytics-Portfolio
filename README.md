@@ -28,4 +28,4 @@ Hi, I'm Yasmina Ahmed Mohsen. This repository documents my journey learning data
 ## 📫 Contact
 LinkedIn: https://www.linkedin.com/in/yasmina-mohsen-3644553b4
 ---
-Created by **Yasmina Mohsen**
+Created by **Yasmina Abdel Mohsen**
